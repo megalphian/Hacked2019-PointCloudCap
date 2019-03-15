@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PointCloudGetter.cs">
+    <Files>
+      <File FileName="Assets/GoogleARCore/Examples/ComputerVision/Scripts/ComputerVisionController.cs" Line="91" Column="5" />
+      <File FileName="Assets/PointCloudGetter.cs" Line="48" Column="71" />
+      <File FileName="Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs" Line="146" Column="56" NotebookId="1" />
+      <File FileName="Assets/GoogleARCore/Examples/Common/Scripts/PointcloudVisualizer.cs" Line="63" Column="26" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
